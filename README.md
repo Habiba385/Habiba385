@@ -9,21 +9,20 @@
 - 🔭 Currently exploring **Machine Learning & AI**  
 - 🌱 Learning and practicing advanced ML models and data analysis  
 - 👯 Looking to collaborate on data science projects  
-- ⚡ Fun fact: I love turning data into insights and solving real-world problems  
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right:10px;" />
-<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="margin-right:10px;" />
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="margin-right:10px;" />
-<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/_static/images/logo2.svg" style="margin-right:10px;" />
-<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="margin-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin-right:10px;" />
-<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="margin-right:10px;" />
+<img align="left" alt="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right:12px;" />
+<img align="left" alt="NumPy" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="margin-right:12px;" />
+<img align="left" alt="Pandas" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="margin-right:12px;" />
+<img align="left" alt="Matplotlib" width="36px" src="https://matplotlib.org/_static/images/logo2.svg" style="margin-right:12px;" />
+<img align="left" alt="Seaborn" width="36px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="margin-right:12px;" />
+<img align="left" alt="SQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin-right:12px;" />
+<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right:12px;" />
+<img align="left" alt="GitHub" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin-right:12px;" />
+<img align="left" alt="Jupyter" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="margin-right:12px;" />
 
 <br /><br />
 
@@ -57,7 +56,3 @@
   <img align="left" alt="Habiba's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Habiba385&show_icons=true&hide_border=false&theme=dark" />
 
 </details>
-
----
-
-⚡ Fun fact: I love exploring new Machine Learning projects, solving data challenges, and sharing knowledge with others!
