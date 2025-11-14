@@ -9,13 +9,13 @@
 
 ## 🛠️ Skills
 
-**Programming:**  
+<!-- Programming -->
 <img align="left" alt="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right:12px;" />
 <img align="left" alt="SQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin-right:12px;" />
 
 <br />
 
-**Data Analysis & Visualization:**  
+<!-- Data Analysis & Visualization -->
 <img align="left" alt="NumPy" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="margin-right:12px;" />
 <img align="left" alt="Pandas" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="margin-right:12px;" />
 <img align="left" alt="Matplotlib" width="36px" src="https://matplotlib.org/_static/images/logo2.svg" style="margin-right:12px;" />
@@ -23,7 +23,7 @@
 
 <br />
 
-**Machine Learning Tools:**  
+<!-- Machine Learning Tools -->
 <img align="left" alt="Scikit-learn" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="margin-right:12px;" />
 <img align="left" alt="XGBoost" width="36px" src="https://raw.githubusercontent.com/abubakarfaiz/xgboost-logo/master/xgboost.png" style="margin-right:12px;" />
 <img align="left" alt="Jupyter" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="margin-right:12px;" />
