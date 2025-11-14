@@ -13,16 +13,17 @@
 
 ---
 
-### Languages and Tools:
+### 🛠️ Languages & Tools
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:10px;" />]
-[<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right:10px;" />
+<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="margin-right:10px;" />
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="margin-right:10px;" />
+<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/_static/images/logo2.svg" style="margin-right:10px;" />
+<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="margin-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin-right:10px;" />
+<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="margin-right:10px;" />
 
 <br /><br />
 
@@ -43,9 +44,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Created/Contributed to ML & Data Analysis projects on GitHub
-2. ❗ Worked on data cleaning & preprocessing repositories
-3. 🗣 Collaborated and submitted ML solutions
+1. 💪 Contributed to ML & Data Analysis projects on GitHub  
+2. ❗ Worked on data cleaning & preprocessing repositories  
+3. 🗣 Collaborated and submitted ML solutions  
 <!--END_SECTION:activity-->
 
 </details>
